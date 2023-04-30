@@ -13,4 +13,9 @@ public class MyTest {
         Demo d = new Demo();
         d.DoSomething(false);
     }
+
+    @Test
+    public void test_method_3(){
+        System.out.println("this is new commit!");
+    }
 }
